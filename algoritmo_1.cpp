@@ -86,7 +86,7 @@ void cargarDatos() {
 
         for (int i=0; i < num_caches; ++i) {// Seteo caches
             cache_register[i].free_size=size_caches;
-        }//Hasta aqui va bien
+        }
 
 
         for (int i = 0; i < num_endpoints; ++i) {
@@ -120,7 +120,6 @@ void cargarDatos() {
                 conection insertar;
                 insertar.id_endpoint=i;
                 insertar.id_cache=cach;
-                //set_de_conexiones_actual->insert(insertar);
                 latencias_ordenadas[lat].insert(insertar);
 
             }
