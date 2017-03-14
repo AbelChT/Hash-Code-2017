@@ -1,5 +1,5 @@
 Algoritmos utilizados en la ronda extendida del Hash Code 2017.
-Para obtener el output de kittens usé el algoritmo 1, para el resto el algoritmo 2. No he logrado obtener un output del algoritmo 2 con kittens debido a que esto tenía un coste computacional muy elevado.
+Para obtener el output de kittens se usó el algoritmo 1, para el resto el algoritmo 2. No se ha logrado obtener un output del algoritmo 2 con kittens debido a que esto tenía un coste computacional muy elevado.
 
 Puntuación total obtenida: 2152907 puntos
 
